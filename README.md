@@ -56,3 +56,6 @@ Recommended baseline for the deny list (extend it per repo):
 ## License
 
 MIT
+## Notes
+
+Longer memory files get skimmed.
